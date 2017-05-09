@@ -25,7 +25,7 @@ SECRET_KEY = '34@bo#apu=i9s#%esblwkr!ao75&xk6cxczg_k_89_%_k0v1kb'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['mimmyum.pythonanywhere.com']
 
 
 # Application definition
